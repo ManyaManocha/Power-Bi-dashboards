@@ -23,13 +23,6 @@ It explores key metrics such as the number of shows and movies, content distribu
   - Gauge chart for average release year and first duration
   - Treemap for ratings
 
-## 📷 Dashboard Preview
-
-![Netflix Dashboard](Screenshots/netflix_dashboard.png)
-
-
-## 📂 File Structure
-
 
 ## 🛠️ How to View the Dashboard
 
@@ -41,7 +34,6 @@ It explores key metrics such as the number of shows and movies, content distribu
 
 - **Name:** Manya Manocha
 - **Project:** Personal Power BI Portfolio
-- **LinkedIn:** [Your LinkedIn Profile Link] *(optional)*
 
 ---
 
